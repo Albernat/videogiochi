@@ -25,13 +25,20 @@ Spesso però i giochi digitali sono scontati ...
 - **The Elder Scolls V: Skyrim**, infinito gioco di ruolo, portato alla Switch €€€
 - Battle Chasers: Nightwar, gioco di ruolo alla giapponese
 - Dragon Quest Builders: per metà gioco di ruolo d'azione alla giapponese, per metà Minecraft guidato
+- Oxenfree, avventura lenta (forse in inglese) €
+- **Golf Story**, misto tra gioco di golf 2D e avventura di ruolo €
 
 ## Giochi d'azione
 - **Super Mario Odyssey**, platformer 3D, puro Nintendo €€€€
-- **Yoshi's Crafted World**, facile platformer, adatto anche ai più piccoli €€€
-- **New Super Mario Bros. U Deluxe**, classico platformer 2D portato da Wii U, un po' difficile
-- **Rayman Legends**, divertente platformer, portato da Wii U €€
-- Sonic Mania, nuovo gioco di Sonic in stile retrò, piaciuto
+- **Yoshi's Crafted World**, facile platformer, adatto anche ai più piccoli, anche in due €€€
+- **New Super Mario Bros. U Deluxe**, classico platformer 2D portato da Wii U, un po' _difficile_
+- **Rayman Legends**, divertente platformer, portato da Wii U, fino a quattro €€
+- **Celeste**, platformer _difficile_ ma giusto, con storia triste/allegra €
+- **Dead Cells**, metroidvania roguelike (tutti e due!), rigiocabile per molte ore €
+- **Hollow Knight**, metroidvania, difficilino €
+- **Cuphead**, _difficile_, ne parlano bene
+- **Axiom Verge**, metroidvania, difficilino €
+- Sonic Mania, nuovo gioco di Sonic in stile retrò, piaciuto a molti
 - Kirby Star Allies, credo adatto anche ai più piccoli, ...
 - Mario Tennis Aces, ...
 - Donkey Kong Country: Tropical Freeze, platformer 2D portato da Wii U, difficile
@@ -39,6 +46,7 @@ Spesso però i giochi digitali sono scontati ...
 
 ## Simulazioni
 - **Minecraft**, non serve spiegazione €€
+- Stardew Valley, simulazione di vita agreste €
 
 ## Picchiaduro
 - **Super Smash Bros. Ultimate**, picchiaduro coi personaggi Nintendo €€€€
@@ -50,28 +58,19 @@ Spesso però i giochi digitali sono scontati ...
 ## Sparatutto
 - Splatoon 2, sparatutto in terza persona fatto da Nintendo con calamari e inchiostro €€€
 
-## Rompicapi
-- **Captain Toad: Treasure Tracker**, avventura e rompicapi per il povero Toad, portato da Wii U €€€
-
-## Videogiochi strategici
+## Videogiochi strategici e di rompicapi
+- **Into The Breach**, piccolo gioco indie a turni €
 - Mario + Rabbids Kingdom Battle: non Nintendo anche se con Mario, strategico a turni, difficilino €€€
+- **Captain Toad: Treasure Tracker**, avventura e rompicapi per il povero Toad, portato da Wii U €€€
 
 ## Videogiochi di guida
 - **Mario Kart 8 Deluxe**, portato da Wii U, eccellente €€€
 - Horizon Chase Turbo, in stile finto retrò
 
 
+## Giochi indie
 
-
-## Giochi indie moderni
-
-- **Celeste**, difficile ma giusto €
-- **Hollow Knight**, metroidvania, difficilino €
-- **Into The Breach** €
-- **Cuphead**, difficile, ne parlano bene.
-- **Axiom Verge**, metroidvania, difficilino €
 - Katana Zero
-- Stardew Valley €
 - Enter the Gungeon
 - Night in the Woods (?)
 - Thumper
@@ -80,7 +79,6 @@ Spesso però i giochi digitali sono scontati ...
 - Bury Me, My Love
 - Full Metal Furies
 - The Messenger, platformer, difficile €
-- **Dead Cells**, metroidvania roguelike (!), rigiocabile €
 - West of Loathing
 - Shovel Knight, pixellato, difficile
 - SteamWorld Dig 2
@@ -95,11 +93,8 @@ Spesso però i giochi digitali sono scontati ...
 - Crypt of the NecroDancer
 - Monster Boy and the Cursed Kingdom
 
-## Giochi indie classici
-
 - VVV
 - Owlboy €
-- **Golf Story** €
 - Gris
 - Undertale, avventura €
 - TowerFall, multiplayer €
@@ -112,13 +107,10 @@ Spesso però i giochi digitali sono scontati ...
 - Super Meat Boy
 
 
-## Avventure
-Giochi che raccontano una storia interattiva.
-- Oxenfree €
 
 ## Giuochi "gratuiti" che non mi piacciuono
 
-- **Fortnite**
+- **Fortnite** fa male ai bambini!
 - Wireframe
 - Tetris 99, compreso con Nintendo Online
 
@@ -136,6 +128,7 @@ Ognuno poi decida come vuole.
 ## Note
 
 Prezzi approssimativi:
+
 |€|0--20€|
 |€€|20--40€|
 |€€€|40--60€|
@@ -154,5 +147,8 @@ do il prezzo.
 
 ## Giochi portati
 Questi sono giochi AAA di altre console o PC portati (con un po’ di fatica) sulla Switch.
+
+## Avventure
+Giochi che raccontano una storia interattiva.
 {% endcomment %}
 
