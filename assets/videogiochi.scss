@@ -1,0 +1,55 @@
+---
+---
+
+$u: 24px;
+$ratio: 1.33;
+
+
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:300,400,700,900&subset=latin-ext');
+
+body {
+    font-family: "Work Sans", sans-serif;
+}
+
+body {
+    font-size: $u / $ratio;
+    line-height: $u;
+}
+
+h1, h2 {
+    font-weight: 300;
+}
+
+h1 {
+    font-size: 2 * $u / $ratio;
+    line-height: 2 * $u;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    font-size: 1.5 * $u / $ratio;
+    line-height: 1.5 * $u;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: $u / 2 0;
+    padding: 0;
+    max-width: 64ch;
+}
+
+ul {
+    margin: $u / 2 0;
+    padding: 0 $u;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+body > main {
+    padding: 2 * $u 4 * $u;
+}
+
+
