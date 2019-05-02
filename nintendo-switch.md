@@ -29,7 +29,7 @@ Spesso però i giochi digitali sono scontati ...
 - **Golf Story**, misto tra gioco di golf 2D e avventura di ruolo €
 - Crypt of the NecroDancer, roguelike musicale (!)
 
-## Giochi d'azione
+## Giochi d'azione e di piattaforme
 - **Super Mario Odyssey**, platformer 3D, puro Nintendo €€€€
 - **Yoshi's Crafted World**, facile platformer, adatto anche ai più piccoli, anche in due €€€
 - **New Super Mario Bros. U Deluxe**, classico platformer 2D portato da Wii U, un po' _difficile_
@@ -46,27 +46,24 @@ Spesso però i giochi digitali sono scontati ...
 - Donkey Kong Country: Tropical Freeze, platformer 2D portato da Wii U, difficile
 - Rocket League, gioco di calcio colle macchinine (sì!), piace
 
-## Simulazioni
-- **Minecraft**, non serve spiegazione €€
-- Stardew Valley, simulazione di vita agreste €
-
-## Picchiaduro
+## Picchiaduro e Sparatutto
 - **Super Smash Bros. Ultimate**, picchiaduro coi personaggi Nintendo €€€€
+- Splatoon 2, sparatutto in terza persona fatto da Nintendo con calamari e inchiostro €€€
 - ARMS, picchiaduro Nintendo ...
 - Hyrule Warriors, strano gioco d'azione e combattimento, con brevi scenari, portato da Wii U
 - Bayonetta 2 €€€
 - Bayonetta €€
 
-## Sparatutto
-- Splatoon 2, sparatutto in terza persona fatto da Nintendo con calamari e inchiostro €€€
-
-## Videogiochi strategici e di rompicapi
+## Videogiochi strategici, rompicapi e simulazioni
+- **Minecraft**, non serve spiegazione €€
+- Stardew Valley, simulazione di vita agreste €
 - **Into The Breach**, piccolo gioco indie a turni €
 - Mario + Rabbids Kingdom Battle: non Nintendo anche se con Mario, strategico a turni, difficilino €€€
 - **Captain Toad: Treasure Tracker**, avventura e rompicapi per il povero Toad, portato da Wii U €€€
 - Baba Is You, piccolo meta-gioco difficilino €
 
 ## Videogiochi di guida
+Non sempre realistici.
 - **Mario Kart 8 Deluxe**, portato da Wii U, eccellente €€€
 - Horizon Chase Turbo, in stile finto retrò
 
@@ -109,10 +106,9 @@ Spesso però i giochi digitali sono scontati ...
 
 
 ## Giuochi "gratuiti" che non mi piacciuono
-
-- **Fortnite** fa male ai bambini!
+- **Fortnite** "fa male ai bambini!"
 - Wireframe
-- Tetris 99, compreso con Nintendo Online
+- Tetris 99, compreso solo con Nintendo Online
 
 
 ## Giochi che consiglio ma dopo i 14~ anni
@@ -127,14 +123,18 @@ Ognuno poi decida come vuole.
 
 ## Note
 
-Prezzi approssimativi:
+Terminologia usata e prezzi approssimativi:
 
 |€|0--20€|
 |€€|20--40€|
 |€€€|40--60€|
 |€€€€|60€+|
-
-|...|Da finire...|
+|...|Descrizione da finire...|
+|breve|Gioco che si finisce in meno di 10 ore|
+|lungo|Gioco che non si finisce dopo 100 ore|
+|facile|Gioco umano|
+|difficilino|Gioco difficile|
+|difficile|Gioco impossibile!|
 
 
 {% comment %}
