@@ -131,7 +131,7 @@ Terminologia usata e prezzi approssimativi:
 |€€€€|60€+|
 |...|Descrizione da finire...|
 |breve|Gioco che si finisce in meno di 10 ore|
-|lungo|Gioco che non si finisce dopo 100 ore|
+|lungo|Gioco che non si finisce del tutto dopo 100 ore|
 |facile|Gioco umano|
 |difficilino|Gioco difficile|
 |difficile|Gioco impossibile!|
