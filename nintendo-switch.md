@@ -27,6 +27,7 @@ Spesso però i giochi digitali sono scontati ...
 - Dragon Quest Builders: per metà gioco di ruolo d'azione alla giapponese, per metà Minecraft guidato
 - Oxenfree, avventura lenta (forse in inglese) €
 - **Golf Story**, misto tra gioco di golf 2D e avventura di ruolo €
+- Crypt of the NecroDancer, roguelike musicale (!)
 
 ## Giochi d'azione
 - **Super Mario Odyssey**, platformer 3D, puro Nintendo €€€€
@@ -38,6 +39,7 @@ Spesso però i giochi digitali sono scontati ...
 - **Hollow Knight**, metroidvania, difficilino €
 - **Cuphead**, _difficile_, ne parlano bene
 - **Axiom Verge**, metroidvania, difficilino €
+- Shovel Knight, pixellato e retrò, difficile
 - Sonic Mania, nuovo gioco di Sonic in stile retrò, piaciuto a molti
 - Kirby Star Allies, credo adatto anche ai più piccoli, ...
 - Mario Tennis Aces, ...
@@ -62,13 +64,14 @@ Spesso però i giochi digitali sono scontati ...
 - **Into The Breach**, piccolo gioco indie a turni €
 - Mario + Rabbids Kingdom Battle: non Nintendo anche se con Mario, strategico a turni, difficilino €€€
 - **Captain Toad: Treasure Tracker**, avventura e rompicapi per il povero Toad, portato da Wii U €€€
+- Baba Is You, piccolo meta-gioco difficilino €
 
 ## Videogiochi di guida
 - **Mario Kart 8 Deluxe**, portato da Wii U, eccellente €€€
 - Horizon Chase Turbo, in stile finto retrò
 
 
-## Giochi indie
+## Giochi indie ancora da categorizzare
 
 - Katana Zero
 - Enter the Gungeon
@@ -80,17 +83,14 @@ Spesso però i giochi digitali sono scontati ...
 - Full Metal Furies
 - The Messenger, platformer, difficile €
 - West of Loathing
-- Shovel Knight, pixellato, difficile
 - SteamWorld Dig 2
 - SteamWorld Heist
 - Hyper Light Drifter €
 - Ikaruga, shot'n'up €
 - SteamWorld Quest: Hand of Gilgamech
-- Baba Is You €
 - Guacamelee! 2, metroidvania €
 - Guacamelee!
 - Downwell €
-- Crypt of the NecroDancer
 - Monster Boy and the Cursed Kingdom
 
 - VVV
