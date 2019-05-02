@@ -31,13 +31,13 @@ Spesso però i giochi digitali sono scontati ...
 
 ## Giochi d'azione e di piattaforme
 - **Super Mario Odyssey**, platformer 3D, puro Nintendo €€€€
-- **Yoshi's Crafted World**, facile platformer, adatto anche ai più piccoli, anche in due €€€
-- **New Super Mario Bros. U Deluxe**, classico platformer 2D portato da Wii U, un po' _difficile_
+- **[Yoshi's Crafted World](https://www.nintendo.it/Giochi/Nintendo-Switch/Yoshi-s-Crafted-World-1233953.html)**, facile platformer, adatto anche ai più piccoli, anche in due €€€
+- **[New Super Mario Bros. U Deluxe](https://www.nintendo.it/Giochi/Nintendo-Switch/New-Super-Mario-Bros-U-Deluxe-1438640.html)**, classico platformer 2D portato da Wii U, un po' _difficile_
 - **Rayman Legends**, divertente platformer, portato da Wii U, fino a quattro €€
 - **Celeste**, platformer _difficile_ ma giusto, con storia triste/allegra €
 - **Dead Cells**, metroidvania roguelike (tutti e due!), rigiocabile per molte ore €
 - **Hollow Knight**, metroidvania, difficilino €
-- **Cuphead**, _difficile_, ne parlano bene
+- **[Cuphead](https://www.nintendo.it/Giochi/Giochi-scaricabili-per-Nintendo-Switch/Cuphead-1532319.html)**, _difficile_, ne parlano bene
 - **Axiom Verge**, metroidvania, difficilino €
 - Shovel Knight, pixellato e retrò, difficile
 - Sonic Mania, nuovo gioco di Sonic in stile retrò, piaciuto a molti
@@ -47,7 +47,7 @@ Spesso però i giochi digitali sono scontati ...
 - Rocket League, gioco di calcio colle macchinine (sì!), piace
 
 ## Picchiaduro e Sparatutto
-- **Super Smash Bros. Ultimate**, picchiaduro coi personaggi Nintendo €€€€
+- **[Super Smash Bros. Ultimate](https://www.nintendo.it/Giochi/Nintendo-Switch/Super-Smash-Bros-Ultimate-1395713.html)**, picchiaduro coi personaggi Nintendo €€€€
 - Splatoon 2, sparatutto in terza persona fatto da Nintendo con calamari e inchiostro €€€
 - ARMS, picchiaduro Nintendo ...
 - Hyrule Warriors, strano gioco d'azione e combattimento, con brevi scenari, portato da Wii U
