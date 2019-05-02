@@ -4,7 +4,7 @@
 <html>
     <head>
         <title>{% if page.title %}{{ page.title }}{% else %}{{site.title }}{% endif %}</title>
-        <link rel="stylesheet" href="/assets/videogiochi.css">
+        <link rel="stylesheet" href="{{ "/assets/videogiochi.css" | relative_url }}">
     </head>
     <body>
 
