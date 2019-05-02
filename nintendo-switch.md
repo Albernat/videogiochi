@@ -4,8 +4,9 @@ layout: default
 
 # Videogiochi per Nintendo Switch
 
-La Nintendo Switch è uscita a marzo 2017 e già conta almeno [millecinquecento](https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games) (1.500) giochi.
+La Nintendo Switch è stata messa in vendita nel marzo 2017 e sono già disponibili almeno [millecinquecento](https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games) (1.500) giochi. Quali scegliere?
 
+{% comment %}
 I giochi per Switch si possono comprare nella versione fisica (su cartuccia/memory card) o dallo store di
 gitale. Solo alcuni ... tutti ... A volte occorre scaricare comunque ...
 Sullo store digitale si può pagare con ... oppure con carte prepagate Nintendo, neutre o legate ad un par
@@ -13,6 +14,7 @@ ticolare gioco.
 Cosa comprare? Per giochi importanti, costosi e pesanti (in GB) conviene puntare alla versione fisica. Pr
 os: vendibile, non occupa (troppo) spazio, ...
 Spesso però i giochi digitali sono scontati ...
+{% endcomment %}
 
 ## I classici giochi essenziali Nintendo
 - **The Legend of Zelda: Breath of the Wild** €€€€
@@ -123,8 +125,9 @@ Giochi che raccontano una storia interattiva.
 - Wireframe
 - Tetris 99, compreso con Nintendo Online
 
+
 ## Giochi che consiglio ma dopo i 14~ anni
-Ognuno decida come vuole.
+Ognuno poi decida come vuole.
 - **The Binding of Isaac**: splendido roguelike d'azione in stile zelda, purtroppo a tema antireligioso e fastidiosamente pieno di cacca €€
 - **Inside**, splendida avventura, breve, cupa e triste €
 - Limbo, dagli stessi autori di Inside
@@ -133,10 +136,14 @@ Ognuno decida come vuole.
 
 ## Note
 
-€ 0--20€
-€€ 20--40€
-€€€ 40--60€
-€€€€ 60€+
+Prezzi approssimativi:
+|€|0--20€|
+|€€|20--40€|
+|€€€|40--60€|
+|€€€€|60€+|
 
+{% comment %}
+## Giochi anche per i più piccoli
 
-VM14
+{% endcomment %}
+
