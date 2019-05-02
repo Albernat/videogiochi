@@ -42,6 +42,11 @@ p {
 ul {
     margin: $u / 2 0;
     padding: 0 $u;
+    li {
+        list-style-type: square;
+        margin: $u / 2 0;
+        padding: 0;
+    }
 }
 
 body {
@@ -52,4 +57,23 @@ body > main {
     padding: 2 * $u 4 * $u;
 }
 
+
+body {
+    background: #f7f7f7;
+    color: #222;
+}
+
+a:link, a:visited {
+    color: #900;
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+i, em {
+    font-style: normal;
+    background: #fc0;
+    padding: 0 $u / 4;
+}
 
