@@ -16,53 +16,52 @@ os: vendibile, non occupa (troppo) spazio, ...
 Spesso però i giochi digitali sono scontati ...
 {% endcomment %}
 
-## I classici giochi essenziali Nintendo
-- **The Legend of Zelda: Breath of the Wild** €€€€
-- **Super Mario Odyssey**, platformer 3D €€€€
-- **Super Smash Bros. Ultimate**, picchiaduro coi personaggi Nintendo €€€€
-- Splatoon 2 €€€
-
-## Gli altri giochi Nintendo
-
-- **Yoshi's Crafted World** €€€ facile
-- **Pokémon: Let's Go, Pikachu! & Eevee!** €€€
-- ARMS
-- Xenoblade Chronicles 2
-- Mario Tennis Aces
-- Kirby Star Allies
-
-## Giochi moderni
-
-- **Mario + Rabbids Kingdom Battle** €€€: non Nintendo anche se con Mario
-- Octopath Traveler €€€
-- Battle Chasers: Nightwar
+## Giochi d'avventura e di ruolo
+- **The Legend of Zelda: Breath of the Wild**, enorme avventura openworld, nuovo classico Nintendo, _imperdibile_ €€€€
+- **Pokémon: Let's Go, Pikachu! & Eevee!**, ... €€€
+- Okami, avventura giapponese stile Zelda con protagonista un cane
+- Xenoblade Chronicles 2, enorme gioco di ruolo alla giapponese
+- Octopath Traveler, gioco di ruolo alla giapponese in stile retrò €€€
+- **The Elder Scolls V: Skyrim**, infinito gioco di ruolo, portato alla Switch €€€
+- Battle Chasers: Nightwar, gioco di ruolo alla giapponese
 - Dragon Quest Builders: per metà gioco di ruolo d'azione alla giapponese, per metà Minecraft guidato
-- Rocket League
-- Sonic Mania
 
-## Giochi portati
+## Giochi d'azione
+- **Super Mario Odyssey**, platformer 3D, puro Nintendo €€€€
+- **Yoshi's Crafted World**, facile platformer, adatto anche ai più piccoli €€€
+- **New Super Mario Bros. U Deluxe**, classico platformer 2D portato da Wii U, un po' difficile
+- **Rayman Legends**, divertente platformer, portato da Wii U €€
+- Sonic Mania, nuovo gioco di Sonic in stile retrò, piaciuto
+- Kirby Star Allies, credo adatto anche ai più piccoli, ...
+- Mario Tennis Aces, ...
+- Donkey Kong Country: Tropical Freeze, platformer 2D portato da Wii U, difficile
+- Rocket League, gioco di calcio colle macchinine (sì!), piace
 
-Questi sono giochi AAA di altre console o PC portati (con un po’ di fatica) sulla Switch.
-- **Minecraft** €€
-- Doom
-- Wolfenstein II: The New Colossus
-- **The Elder Scolls V: Skyrim** €€€
-- Okami
+## Simulazioni
+- **Minecraft**, non serve spiegazione €€
 
-## Giochi della Wii U portati sulla Switch
-
-La Wii U, a differenza della Wii, non ha avuto molta fortuna. Però ha avuto molti bei giochi. Sarebbe un 
-peccato ... quindi Nintendo e altri li hanno portati per la Switch, in molti (ma non tutti) casi abbassan
-do il prezzo.
-
-- **Mario Kart 8 Deluxe** €€€
-- **New Super Mario Bros. U Deluxe**
-- Donkey Kong Country: Tropical Freeze
-- Hyrule Warriors
-- **Captain Toad: Treasure Tracker** €€€
-- **Rayman Legends** €€
+## Picchiaduro
+- **Super Smash Bros. Ultimate**, picchiaduro coi personaggi Nintendo €€€€
+- ARMS, picchiaduro Nintendo ...
+- Hyrule Warriors, strano gioco d'azione e combattimento, con brevi scenari, portato da Wii U
 - Bayonetta 2 €€€
 - Bayonetta €€
+
+## Sparatutto
+- Splatoon 2, sparatutto in terza persona fatto da Nintendo con calamari e inchiostro €€€
+
+## Rompicapi
+- **Captain Toad: Treasure Tracker**, avventura e rompicapi per il povero Toad, portato da Wii U €€€
+
+## Videogiochi strategici
+- Mario + Rabbids Kingdom Battle: non Nintendo anche se con Mario, strategico a turni, difficilino €€€
+
+## Videogiochi di guida
+- **Mario Kart 8 Deluxe**, portato da Wii U, eccellente €€€
+- Horizon Chase Turbo, in stile finto retrò
+
+
+
 
 ## Giochi indie moderni
 
@@ -112,8 +111,6 @@ do il prezzo.
 - Cave Story+
 - Super Meat Boy
 
-## Corse
-- Horizon Chase Turbo
 
 ## Avventure
 Giochi che raccontano una storia interattiva.
@@ -132,6 +129,8 @@ Ognuno poi decida come vuole.
 - **Inside**, splendida avventura, breve, cupa e triste €
 - Limbo, dagli stessi autori di Inside
 - **Diablo III**: Eternal Collection, immenso gioco di ruolo d'azione, cupo €€€
+- Doom
+- Wolfenstein II: The New Colossus
 
 
 ## Note
@@ -142,8 +141,18 @@ Prezzi approssimativi:
 |€€€|40--60€|
 |€€€€|60€+|
 
+|...|Da finire...|
+
+
 {% comment %}
 ## Giochi anche per i più piccoli
 
+## Giochi della Wii U portati sulla Switch
+La Wii U, a differenza della Wii, non ha avuto molta fortuna. Però ha avuto molti bei giochi. Sarebbe un 
+peccato ... quindi Nintendo e altri li hanno portati per la Switch, in molti (ma non tutti) casi abbassan
+do il prezzo.
+
+## Giochi portati
+Questi sono giochi AAA di altre console o PC portati (con un po’ di fatica) sulla Switch.
 {% endcomment %}
 
